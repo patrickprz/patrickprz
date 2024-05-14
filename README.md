@@ -1,4 +1,4 @@
-### Welcome to my profile :ghost:
+### Welcome to my profile
 
 I work with C++ software development and game music composition :computer: :musical_note:
 
